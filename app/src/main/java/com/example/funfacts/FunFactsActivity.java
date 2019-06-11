@@ -11,6 +11,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.Random;
+    // Testing commits with github
 
 public class FunFactsActivity extends AppCompatActivity {
         public static final String TAG = FunFactsActivity.class.getSimpleName();
