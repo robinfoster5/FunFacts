@@ -4,6 +4,7 @@ import java.util.Random;
 
 class FactBook {
     // Fields or Member Variables - Properties about the object
+    //Hannah is
     private String[] facts = {
             "Gamers rise up.",
             "I have so much swag.",
