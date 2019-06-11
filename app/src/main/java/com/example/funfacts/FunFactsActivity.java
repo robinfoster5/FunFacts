@@ -14,6 +14,7 @@ import java.util.Random;
     // Testing commits with github
 
 public class FunFactsActivity extends AppCompatActivity {
+    //hello hello hello
         public static final String TAG = FunFactsActivity.class.getSimpleName();
         private FactBook factBook = new FactBook();
         private ColorWheel colorWheel = new ColorWheel();

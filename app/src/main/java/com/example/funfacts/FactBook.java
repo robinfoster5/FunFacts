@@ -15,7 +15,8 @@ class FactBook {
             "Some penguins can leap 2-3 meters out of the water.",
             "On average, it takes 66 days to form a new habit.",
             "Mammoths still walked the earth when the Great Pyramid was being built.",
-            "Seize the means of productions."};
+            "Seize the means of productions.",
+    "You no longer own any bones!"};
     // Methods - Actions the object can take
     String getFact() {
 
