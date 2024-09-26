@@ -13,6 +13,7 @@ import android.widget.Toast;
 import java.util.Random;
 
 public class FunFactsActivity extends AppCompatActivity {
+    //hello hello hello
         public static final String TAG = FunFactsActivity.class.getSimpleName();
         private FactBook factBook = new FactBook();
         private ColorWheel colorWheel = new ColorWheel();
